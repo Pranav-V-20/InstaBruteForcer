@@ -21,17 +21,19 @@ Usage of InstaGhost for attacking targets without prior mutual consent is illega
 
 #Usage:
 ---
-'''
-  git clone https://github.com/thelinuxchoice/instainsane
-  cd instainsane
-  chmod +x instainsane.sh
-  sudo ./instainsane.sh
-'''
+```txt
+  git clone https://github.com/Pranav-V-20/instaghost
+  cd instaghost
+  chmod +x instaghost.sh
+  sudo ./instaghost.sh
+```
 
 Install requirements (Curl, Tor, Openssl):
 
+```txt
 chmod +x install.sh
 sudo ./install.sh
+```
 
 #How it works?
 ---
