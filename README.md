@@ -23,7 +23,7 @@ Usage of InstaGhost for attacking targets without prior mutual consent is illega
 ---
 ```txt
   git clone https://github.com/Pranav-V-20/instaghost
-  cd instaghost
+  cd InstaBruteForcer
   chmod +x instaghost.sh
   sudo ./instaghost.sh
 ```
